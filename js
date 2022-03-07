@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T17:28:28.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="a300yIUstS-mQo0LPWIR" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T17:29:29.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="JfG4u8aikgh9jtdFskAW" version="16.1.2" type="github">
   <diagram id="3wIJA3o5nD6LXHhUMIK_" name="Page-1">
     <mxGraphModel dx="1237" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -199,6 +199,9 @@
         </mxCell>
         <mxCell id="oWLOfH_Go3r0Fn8DVf4I-70" value="ActionScript 3 is denied being ECMAScript 4 after the large differences between the two, and ECMAScript 4 is trashed." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="80" y="1840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-72" value="JavaScript resurges after implementing AJAX and sparks the creation of large and popular libraries like jQuery." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1840" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
