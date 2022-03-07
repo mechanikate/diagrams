@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T17:24:48.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="hAq8eBI0m02Yd9ANWrgH" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T17:28:28.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="a300yIUstS-mQo0LPWIR" version="16.1.2" type="github">
   <diagram id="3wIJA3o5nD6LXHhUMIK_" name="Page-1">
     <mxGraphModel dx="1237" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,8 +167,38 @@
         <mxCell id="oWLOfH_Go3r0Fn8DVf4I-54" value="Microsoft helps work on ECMAScript 4." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="320" y="1320" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="oWLOfH_Go3r0Fn8DVf4I-59" target="oWLOfH_Go3r0Fn8DVf4I-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oWLOfH_Go3r0Fn8DVf4I-59" value="Microsoft stops working on ECMAScript 4, and ECMAScript 4 stops being worked on." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="320" y="1480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="oWLOfH_Go3r0Fn8DVf4I-61" target="oWLOfH_Go3r0Fn8DVf4I-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-61" value="Mozilla joins ECMA.&lt;br&gt;(2005)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="oWLOfH_Go3r0Fn8DVf4I-63" target="oWLOfH_Go3r0Fn8DVf4I-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-63" value="Mozilla begins work on ECMAScript for XML (E4X)." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="oWLOfH_Go3r0Fn8DVf4I-65" target="oWLOfH_Go3r0Fn8DVf4I-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-65" value="Macromedia jointly works with Mozilla after Macromedia works on implementing ECMAScript for XML in ActionScript 3." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1720" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="oWLOfH_Go3r0Fn8DVf4I-68" target="oWLOfH_Go3r0Fn8DVf4I-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-68" value="ActionScript 3 is proposed to be the new ECMAScript 4." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1720" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oWLOfH_Go3r0Fn8DVf4I-70" value="ActionScript 3 is denied being ECMAScript 4 after the large differences between the two, and ECMAScript 4 is trashed." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1840" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
