@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T12:43:42.425Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="5EA6vSETfgBUuJzEJbZp" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T18:07:23.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="tPhi80R_18wCTrTGeWVI" version="16.6.7" type="github">
   <diagram id="3wIJA3o5nD6LXHhUMIK_" name="Page-1">
-    <mxGraphModel dx="744" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
           <mxGeometry x="523" y="440" width="351.53" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oWLOfH_Go3r0Fn8DVf4I-17" value="&lt;h1&gt;Sources&lt;/h1&gt;&lt;p&gt;Usage statistics of browser for October 1994:&lt;/p&gt;&lt;p&gt;https://www.cc.gatech.edu/gvu/user_surveys/survey-09-1994/html-paper/survey_2_paper.html#tables&lt;br&gt;&lt;/p&gt;&lt;p&gt;Usage statistics of browser for&amp;nbsp; April 1995:&amp;nbsp;&lt;/p&gt;&lt;p&gt;http://berghel.net/col-edit/cybernautica/jan-feb96/pcai961.php&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="950" width="680" height="120" as="geometry" />
+          <mxGeometry x="960" width="670" height="280" as="geometry" />
         </mxCell>
         <mxCell id="oWLOfH_Go3r0Fn8DVf4I-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;October 1994&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="789.53" y="420" width="80" height="20" as="geometry" />
