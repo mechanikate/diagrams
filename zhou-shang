@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T13:14:28.566Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="hamDNMRprKG4pKq5I-3u" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T13:17:01.069Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="wVhCj7dnKznNyNOmI0dv" version="16.6.8" type="github">
   <diagram id="AWoeYz17cCyQGCyOyKoi" name="Page-1">
     <mxGraphModel dx="881" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,17 +25,11 @@
         <mxCell id="yrDixSDoS9PCS3HZ1a76-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-3" target="yrDixSDoS9PCS3HZ1a76-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-7" target="yrDixSDoS9PCS3HZ1a76-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yrDixSDoS9PCS3HZ1a76-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-7" target="yrDixSDoS9PCS3HZ1a76-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yrDixSDoS9PCS3HZ1a76-7" value="The beginning of the pre-dynasty Zhou (proto-Zhou)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-8" value="1046 &lt;br&gt;BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="147.5" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="yrDixSDoS9PCS3HZ1a76-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-10" target="yrDixSDoS9PCS3HZ1a76-18">
           <mxGeometry relative="1" as="geometry" />
@@ -51,6 +45,11 @@
         </mxCell>
         <mxCell id="yrDixSDoS9PCS3HZ1a76-16" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(42 , 42 , 42) ; display: inline ; float: none&quot;&gt;&lt;b&gt;To stop the fighting, the Zhou needed the nobles on their side. But the Proto-Zhou didn&#39;t know how to get the nobles on their side. Until...&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yrDixSDoS9PCS3HZ1a76-18" value="Proto-Zhou comes up with a plan. The Mandate of Heaven." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="160" height="80" as="geometry" />
@@ -93,6 +92,15 @@
         </mxCell>
         <mxCell id="yrDixSDoS9PCS3HZ1a76-35" value="&lt;b style=&quot;line-height: 1.2&quot;&gt;(this made it legal for the Mandate of Heaven to be given to the Zhou, if people think the Shang have been granted it.)&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-40" target="yrDixSDoS9PCS3HZ1a76-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-40" value="The nobles agree that the Shang had became selfish, which violates Clause 2, and the nobles joined the rebellion." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="880" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-41" value="The Zhou win the fight against the Shang, and the Shang step down." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
