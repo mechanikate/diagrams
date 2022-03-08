@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T13:17:01.069Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="wVhCj7dnKznNyNOmI0dv" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T13:20:07.785Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="poBMngL2IeR6nLwfc8SA" version="16.6.8" type="github">
   <diagram id="AWoeYz17cCyQGCyOyKoi" name="Page-1">
     <mxGraphModel dx="881" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,8 +99,23 @@
         <mxCell id="yrDixSDoS9PCS3HZ1a76-40" value="The nobles agree that the Shang had became selfish, which violates Clause 2, and the nobles joined the rebellion." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="560" y="880" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-41" target="yrDixSDoS9PCS3HZ1a76-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yrDixSDoS9PCS3HZ1a76-41" value="The Zhou win the fight against the Shang, and the Shang step down." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="560" y="1000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-43" value="&lt;h1&gt;iii. Epilogue&lt;/h1&gt;&lt;p&gt;This portion shows what happened after the Zhou came to power.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="1100" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/crown-412-910303.png;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="694.33" y="960" width="55.67" height="55.67" as="geometry" />
+        </mxCell>
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freepnglogos.com/uploads/sun-rays-png/sun-rays-transparent-png-pictures-icons-and-png-0.png;" vertex="1" parent="1">
+          <mxGeometry x="47.16999999999999" y="405" width="225.66" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
