@@ -1,69 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T13:26:13.544Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="GS2_eF995x8gT3ZhVFfR" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T16:47:39.628Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="_EqG08o4LruxhPg3qyi0" version="17.1.2" type="github">
   <diagram id="AWoeYz17cCyQGCyOyKoi" name="Page-1">
-    <mxGraphModel dx="901" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="881" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-1" value="&lt;h1&gt;The history and description of the Mandate of Heaven, in flowchart form&lt;/h1&gt;&lt;p&gt;This flowchart describes and gives the history of the Mandate of Heaven. The flowchart also includes graphics&lt;/p&gt;&lt;p&gt;to help people visualize the history &amp;amp; description of the Mandate of Heaven.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-1" value="&lt;h1&gt;The history and description of the Ancient China, in flowchart form&lt;/h1&gt;&lt;p&gt;This flowchart describes and gives the history of the Ancient China. The flowchart also includes graphics.&lt;/p&gt;&lt;p&gt;to help people visualize the history &amp;amp; description of the Mandate of Heaven.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-2" value="by chris matthy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-2" value="by chris matthy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-3" target="yrDixSDoS9PCS3HZ1a76-10">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-3" target="yrDixSDoS9PCS3HZ1a76-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-3" value="The beginning of the Shang dynasty." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-3" value="The beginning of the Shang dynasty." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-4" value="&lt;h1&gt;i. Prologue&lt;/h1&gt;&lt;div&gt;the history before the mandate of heaven, and the backstory of the conflict that sparked the creation of it.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-4" value="&lt;h1&gt;i. Prologue&lt;/h1&gt;&lt;div&gt;the history before the mandate of heaven, and the backstory of the conflict that sparked the creation of it.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="120" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-5" value="~1600 BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-5" value="~1600 BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="147.5" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-3" target="yrDixSDoS9PCS3HZ1a76-5">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" parent="1" source="yrDixSDoS9PCS3HZ1a76-3" target="yrDixSDoS9PCS3HZ1a76-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-7" target="yrDixSDoS9PCS3HZ1a76-10">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-7" target="yrDixSDoS9PCS3HZ1a76-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-7" value="The beginning of the pre-dynasty Zhou (proto-Zhou)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-7" value="The beginning of the pre-dynasty Zhou (proto-Zhou)." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-10" target="yrDixSDoS9PCS3HZ1a76-18">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-10" target="yrDixSDoS9PCS3HZ1a76-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-10" value="Proto-Zhou and Shang dynasty begin to fight for control over ancient China." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-10" value="Proto-Zhou and Shang dynasty begin to fight for control over ancient China." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2013/07/12/18/58/bow-154094_1280.png;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2013/07/12/18/58/bow-154094_1280.png;" parent="1" vertex="1">
           <mxGeometry x="700" y="270" width="71.75" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/b/ba/Federschwert_with_a_Transparent_Background.png;rotation=-210;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/b/ba/Federschwert_with_a_Transparent_Background.png;rotation=-210;" parent="1" vertex="1">
           <mxGeometry x="730" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-16" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;b&gt;To stop the fighting, the Zhou needed the nobles on their side. But the Proto-Zhou didn&#39;t know how to get the nobles on their side. Until...&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-16" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;b&gt;To stop the fighting, the Zhou needed the nobles on their side. But the Proto-Zhou didn&#39;t know how to get the nobles on their side. Until...&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="280" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-18">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-18" value="Proto-Zhou comes up with a plan. The Mandate of Heaven." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-18" value="Proto-Zhou comes up with a plan. The Mandate of Heaven." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2013/07/12/14/34/light-148483_1280.png;direction=south;rotation=-50;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2013/07/12/14/34/light-148483_1280.png;direction=south;rotation=-50;" parent="1" vertex="1">
           <mxGeometry x="700" y="440" width="80" height="64.46" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-21" value="&lt;h1&gt;ii. Genesis of the Mandate of Heaven&lt;/h1&gt;&lt;p&gt;The Mandate of Heaven was established with three primary rules:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-21" value="&lt;h1&gt;ii. Genesis of the Mandate of Heaven&lt;/h1&gt;&lt;p&gt;The Mandate of Heaven was established with three primary rules:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="400" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-24" value="&lt;h1&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;1. Granting the Mandate of Heaven&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h3&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;The Mandate of Heaven is granted by the gods and may only be granted by the gods. Nobody else may grant the Mandate of Heaven.&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-24" value="&lt;h1&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;1. Granting the Mandate of Heaven&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h3&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;The Mandate of Heaven is granted by the gods and may only be granted by the gods. Nobody else may grant the Mandate of Heaven.&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry y="520" width="400" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontFamily=Helvetica;endArrow=classic;endFill=1;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-25">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontFamily=Helvetica;endArrow=classic;endFill=1;dashed=1;dashPattern=1 2;" parent="1" source="yrDixSDoS9PCS3HZ1a76-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="550" as="targetPoint" />
             <Array as="points">
@@ -72,61 +72,61 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-25" value="&lt;p&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;(this gave the ruler religious power to rule with a stronger and more supported grasp)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-25" value="&lt;p&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;(this gave the ruler religious power to rule with a stronger and more supported grasp)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="440" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-28" value="&lt;h1&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px&quot;&gt;2. Keeping the Mandate of Heaven&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;The Mandate of Heaven is only able to be kept if the ruler that has been granted the Mandate of Heaven cares more about their people than themselves. This ensures human rights for the ruler&#39;s population.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-28" value="&lt;h1&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px&quot;&gt;2. Keeping the Mandate of Heaven&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;The Mandate of Heaven is only able to be kept if the ruler that has been granted the Mandate of Heaven cares more about their people than themselves. This ensures human rights for the ruler&#39;s population.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry y="640" width="400" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;fontFamily=Times New Roman;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-30" target="yrDixSDoS9PCS3HZ1a76-28">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;fontFamily=Times New Roman;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-30" target="yrDixSDoS9PCS3HZ1a76-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-30" value="&lt;p&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;(this made the ruler be forced to be loyal to their people. This clause also made the Shang dynasty&#39;s right to rule unjust)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-30" value="&lt;p&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;(this made the ruler be forced to be loyal to their people. This clause also made the Shang dynasty&#39;s right to rule unjust)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="440" y="640" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-33" value="&lt;h1&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;3. Transferring the Mandate of Heaven&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;The Mandate of Heaven is not limited to a single dynasty or family. The Mandate of Heaven can be transferred, or lost from the ruler.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-33" value="&lt;h1&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;3. Transferring the Mandate of Heaven&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;The Mandate of Heaven is not limited to a single dynasty or family. The Mandate of Heaven can be transferred, or lost from the ruler.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry y="760" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.01;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-35" target="yrDixSDoS9PCS3HZ1a76-33">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.01;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-35" target="yrDixSDoS9PCS3HZ1a76-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-35" value="&lt;b style=&quot;line-height: 1.2&quot;&gt;(this made it legal for the Mandate of Heaven to be given to the Zhou, if people think the Shang have been granted it.)&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-35" value="&lt;b style=&quot;line-height: 1.2&quot;&gt;(this made it legal for the Mandate of Heaven to be given to the Zhou, if people think the Shang have been granted it.)&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="440" y="760" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-40" target="yrDixSDoS9PCS3HZ1a76-41">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-40" target="yrDixSDoS9PCS3HZ1a76-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-40" value="The nobles agree that the Shang had became selfish, which violates Clause 2, and the nobles joined the rebellion." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-40" value="The nobles agree that the Shang had became selfish, which violates Clause 2, and the nobles joined the rebellion." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="880" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-41" target="yrDixSDoS9PCS3HZ1a76-44">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-41" target="yrDixSDoS9PCS3HZ1a76-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-41" value="The Zhou win the fight against the Shang, and the Shang step down." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-41" value="The Zhou win the fight against the Shang, and the Shang step down." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-43" value="&lt;h1&gt;iii. Epilogue&lt;/h1&gt;&lt;p&gt;This portion shows what happened after the Zhou came to power, and their eventual demise&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-43" value="&lt;h1&gt;iii. Epilogue&lt;/h1&gt;&lt;p&gt;This portion shows what happened after the Zhou came to power, and their eventual demise&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry y="1100" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-44" target="yrDixSDoS9PCS3HZ1a76-54">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-44" target="yrDixSDoS9PCS3HZ1a76-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-44" value="Western Zhou period." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-44" value="Western Zhou period." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="1120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/crown-412-910303.png;rotation=25;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/crown-412-910303.png;rotation=25;" parent="1" vertex="1">
           <mxGeometry x="694.33" y="960" width="55.67" height="55.67" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freepnglogos.com/uploads/sun-rays-png/sun-rays-transparent-png-pictures-icons-and-png-0.png;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freepnglogos.com/uploads/sun-rays-png/sun-rays-transparent-png-pictures-icons-and-png-0.png;" parent="1" vertex="1">
           <mxGeometry x="47.16999999999999" y="405" width="225.66" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-48" target="yrDixSDoS9PCS3HZ1a76-41">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;dashed=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-48" target="yrDixSDoS9PCS3HZ1a76-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-48" value="1046/45 BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-48" value="1046/45 BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="760" y="1025" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-52" target="yrDixSDoS9PCS3HZ1a76-44">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yrDixSDoS9PCS3HZ1a76-52" target="yrDixSDoS9PCS3HZ1a76-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="1170" as="targetPoint" />
             <Array as="points">
@@ -135,16 +135,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-52" value="1045&lt;br&gt;&amp;nbsp;BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-52" value="1045&lt;br&gt;&amp;nbsp;BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="760" y="1145" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-54" target="yrDixSDoS9PCS3HZ1a76-60">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="yrDixSDoS9PCS3HZ1a76-54" target="yrDixSDoS9PCS3HZ1a76-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-54" value="Eastern Zhou period." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-54" value="Eastern Zhou period." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="1240" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-58">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yrDixSDoS9PCS3HZ1a76-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="1280" as="targetPoint" />
             <Array as="points">
@@ -153,13 +153,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-58" value="770&lt;br&gt;BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-58" value="770&lt;br&gt;BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="760" y="1265" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-60" value="Qin dynasty conquers Zhou dynasty." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-60" value="Qin dynasty conquers Zhou dynasty." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="1360" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yrDixSDoS9PCS3HZ1a76-63">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yrDixSDoS9PCS3HZ1a76-63" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="1400" as="targetPoint" />
             <Array as="points">
@@ -168,10 +168,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-63" value="256&lt;br&gt;BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-63" value="256&lt;br&gt;BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="760" y="1385" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yrDixSDoS9PCS3HZ1a76-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/crown-412-910303.png;rotation=-212;" vertex="1" parent="1">
+        <mxCell id="yrDixSDoS9PCS3HZ1a76-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/crown-412-910303.png;rotation=-212;" parent="1" vertex="1">
           <mxGeometry x="694.33" y="1460" width="55.67" height="55.67" as="geometry" />
         </mxCell>
       </root>
