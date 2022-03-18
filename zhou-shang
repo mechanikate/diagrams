@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T16:22:29.232Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="smLrGm5NWG8-F3N0VJZc" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T16:24:09.872Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="zkN8_c4-2P_eYeTY3cb2" version="17.1.3" type="github">
   <diagram id="AWoeYz17cCyQGCyOyKoi" name="Page-1">
     <mxGraphModel dx="1189" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -347,6 +347,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="k5PKlm1GlK7IouNgXP6v-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k5PKlm1GlK7IouNgXP6v-10" target="k5PKlm1GlK7IouNgXP6v-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k5PKlm1GlK7IouNgXP6v-10" value="Confucius begins to teach the base ideas for Confucianism." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1560" width="160" height="40" as="geometry" />
         </mxCell>
@@ -355,6 +358,20 @@
         </mxCell>
         <mxCell id="k5PKlm1GlK7IouNgXP6v-22" value="&lt;h1&gt;ii. Follow the Rules of Conduct&lt;/h1&gt;&lt;p&gt;Confucianism was and is a social code of behavior - meaning it&#39;s a rigid set of rules to always live by - and that you shall never break the rules.&lt;/p&gt;&lt;p&gt;The Rules of Conduct included:&lt;/p&gt;&lt;p&gt;1. how gentlemen could only display their skill as archers on three hunts a year, in spring, autumn, and winter&lt;/p&gt;&lt;p&gt;2. how you may not do unto others what you would not want others to do unto you,&lt;br&gt;&lt;/p&gt;&lt;p&gt;3. how you may believe in respect - respect your rulers as they protect you&lt;/p&gt;&lt;p&gt;4. how people should respect each other&lt;/p&gt;&lt;p&gt;5. how you should believe in a good code of behavior - a structured life,&lt;/p&gt;&lt;p&gt;and much more.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1710" width="340" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="k5PKlm1GlK7IouNgXP6v-23" value="Confucius dies." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5PKlm1GlK7IouNgXP6v-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;entryX=0.676;entryY=-0.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k5PKlm1GlK7IouNgXP6v-25" target="k5PKlm1GlK7IouNgXP6v-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="1695" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1561" y="1695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k5PKlm1GlK7IouNgXP6v-25" value="471&lt;br&gt;BCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1680" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
