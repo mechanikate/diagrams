@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T15:04:53.499Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="TwMG_HwYAE5lXvMWwvdl" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T15:05:02.668Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="6pfv4o0zWIlpL7QCg4jd" version="17.1.3" type="github">
   <diagram id="FhSOV1JWTVdPpFtGn__O" name="Page-1">
     <mxGraphModel dx="1189" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-7" value="&lt;h1&gt;Usually if there is one electron on the outer orbital of an atom, the atom wants to give away that electron.&lt;/h1&gt;&lt;p&gt;For example, a Sodium atom is unstable and wants to give away one electron because it has one lonely electron on its outer orbital.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="566" y="840" width="284" height="260" as="geometry" />
+          <mxGeometry x="479" y="1160" width="284" height="260" as="geometry" />
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="j-TenT7RtXFkZGrDrBSA-9" target="moqApZkH9BwLTVdUC0d3-16">
           <mxGeometry relative="1" as="geometry" />
