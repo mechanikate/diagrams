@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T15:28:44.411Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="P5gtNESLC6sk9li75Bbj" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T15:30:10.268Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="cQftnmAfQJYsK7CvyBBa" version="17.1.3" type="github">
   <diagram id="FhSOV1JWTVdPpFtGn__O" name="Page-1">
     <mxGraphModel dx="1132" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -288,7 +288,7 @@
         <mxCell id="j-TenT7RtXFkZGrDrBSA-100" value="&lt;font style=&quot;font-size: 18px&quot;&gt;11&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="121" y="1076.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j-TenT7RtXFkZGrDrBSA-104" value="&lt;h1&gt;Demonstration:&lt;/h1&gt;&lt;div&gt;If you rub a balloon on a person&#39;s hair a bunch, the balloon gathers electrons&lt;/div&gt;&lt;div&gt;from the hair, and the hair, since it&lt;/div&gt;&lt;div&gt;is connected to the ground&lt;/div&gt;&lt;div&gt;through the body (assuming you&lt;/div&gt;&lt;div&gt;aren&#39;t flying), stays neutral.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="j-TenT7RtXFkZGrDrBSA-104" value="&lt;h1&gt;Demonstration:&lt;/h1&gt;&lt;div&gt;If you rub a balloon on a person&#39;s hair a bunch, the balloon gathers electrons&lt;/div&gt;&lt;div&gt;from the hair, and the hair, since it&lt;/div&gt;&lt;div&gt;is connected to the ground&lt;/div&gt;&lt;div&gt;through the body (assuming you&lt;/div&gt;&lt;div&gt;aren&#39;t flying), stays neutral.&lt;/div&gt;&lt;div&gt;Then, touch the balloon to the wall.&lt;/div&gt;&lt;div&gt;If you rubbed the balloon on someone&#39;s hair enough, it should stick!&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry y="1560" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-105" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
@@ -297,99 +297,102 @@
         <mxCell id="j-TenT7RtXFkZGrDrBSA-106" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="640" y="1560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j-TenT7RtXFkZGrDrBSA-112" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="452" y="1540" width="116" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="j-TenT7RtXFkZGrDrBSA-101" value="Actor" style="shape=umlActor;verticalAlign=top;html=1;outlineConnect=0;fontSize=0;fillColor=#6A07C2;" vertex="1" parent="j-TenT7RtXFkZGrDrBSA-112">
-          <mxGeometry y="30" width="116" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="j-TenT7RtXFkZGrDrBSA-107" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-112">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="20" as="sourcePoint" />
-            <mxPoint x="40" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j-TenT7RtXFkZGrDrBSA-108" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-112">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="39" as="sourcePoint" />
-            <mxPoint x="110" y="19" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j-TenT7RtXFkZGrDrBSA-109" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-112">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="40" as="sourcePoint" />
-            <mxPoint x="40" y="10" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j-TenT7RtXFkZGrDrBSA-110" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-112">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="71" y="33" as="sourcePoint" />
-            <mxPoint x="71" y="3" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j-TenT7RtXFkZGrDrBSA-111" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-112">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="53" y="30" as="sourcePoint" />
-            <mxPoint x="53" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-113" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="1540" width="230" height="260" as="geometry" />
+          <mxGeometry x="685" y="1540" width="150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-114" value="Actor" style="shape=umlActor;verticalAlign=top;html=1;outlineConnect=0;fontSize=0;fillColor=#6A07C2;" vertex="1" parent="j-TenT7RtXFkZGrDrBSA-113">
-          <mxGeometry y="30" width="116" height="230" as="geometry" />
+          <mxGeometry y="19.615384615384617" width="75.65217391304348" height="150.3846153846154" as="geometry" />
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-115" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="20" as="sourcePoint" />
-            <mxPoint x="40" y="40" as="targetPoint" />
+            <mxPoint y="13.076923076923077" as="sourcePoint" />
+            <mxPoint x="26.08695652173913" y="26.153846153846153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-116" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="39" as="sourcePoint" />
-            <mxPoint x="110" y="19" as="targetPoint" />
+            <mxPoint x="52.17391304347826" y="25.5" as="sourcePoint" />
+            <mxPoint x="71.73913043478261" y="12.423076923076923" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-117" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="40" as="sourcePoint" />
-            <mxPoint x="40" y="10" as="targetPoint" />
+            <mxPoint x="26.08695652173913" y="26.153846153846153" as="sourcePoint" />
+            <mxPoint x="26.08695652173913" y="6.538461538461538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-118" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="71" y="33" as="sourcePoint" />
-            <mxPoint x="71" y="3" as="targetPoint" />
+            <mxPoint x="46.30434782608695" y="21.576923076923077" as="sourcePoint" />
+            <mxPoint x="46.30434782608695" y="1.9615384615384617" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-119" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="53" y="30" as="sourcePoint" />
-            <mxPoint x="53" as="targetPoint" />
+            <mxPoint x="34.56521739130435" y="19.615384615384617" as="sourcePoint" />
+            <mxPoint x="34.56521739130435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-123" value="" style="group" vertex="1" connectable="0" parent="j-TenT7RtXFkZGrDrBSA-113">
-          <mxGeometry x="-30" y="-60" width="230" height="80" as="geometry" />
+          <mxGeometry x="-19.565217391304348" y="-39.23076923076923" width="150" height="52.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-121" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#6A07C2;strokeColor=default;" vertex="1" parent="j-TenT7RtXFkZGrDrBSA-123">
-          <mxGeometry x="132" y="20" width="18" height="40" as="geometry" />
+          <mxGeometry x="86.08695652173913" y="13.076923076923077" width="11.739130434782608" height="26.153846153846153" as="geometry" />
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-120" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#6A07C2;" vertex="1" parent="j-TenT7RtXFkZGrDrBSA-123">
-          <mxGeometry width="140" height="80" as="geometry" />
+          <mxGeometry width="91.30434782608695" height="52.30769230769231" as="geometry" />
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;" edge="1" parent="1" source="j-TenT7RtXFkZGrDrBSA-120">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="1519.6190476190477" as="targetPoint" />
+            <mxPoint x="610" y="1527" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="j-TenT7RtXFkZGrDrBSA-120">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="829.9999999999998" y="1520" as="targetPoint" />
+            <mxPoint x="840" y="1527" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="1527" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-126" value="rub balloon on hair" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="700" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j-TenT7RtXFkZGrDrBSA-127" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="1550" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j-TenT7RtXFkZGrDrBSA-128" value="Actor" style="shape=umlActor;verticalAlign=top;html=1;outlineConnect=0;fontSize=0;fillColor=#6A07C2;" vertex="1" parent="j-TenT7RtXFkZGrDrBSA-127">
+          <mxGeometry y="19.615384615384617" width="75.65217391304348" height="150.3846153846154" as="geometry" />
+        </mxCell>
+        <mxCell id="j-TenT7RtXFkZGrDrBSA-129" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="13.076923076923077" as="sourcePoint" />
+            <mxPoint x="26.08695652173913" y="26.153846153846153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-TenT7RtXFkZGrDrBSA-130" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="52.17391304347826" y="25.5" as="sourcePoint" />
+            <mxPoint x="71.73913043478261" y="12.423076923076923" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-TenT7RtXFkZGrDrBSA-131" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="26.08695652173913" y="26.153846153846153" as="sourcePoint" />
+            <mxPoint x="26.08695652173913" y="6.538461538461538" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-TenT7RtXFkZGrDrBSA-132" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46.30434782608695" y="21.576923076923077" as="sourcePoint" />
+            <mxPoint x="46.30434782608695" y="1.9615384615384617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-TenT7RtXFkZGrDrBSA-133" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" edge="1" parent="j-TenT7RtXFkZGrDrBSA-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="34.56521739130435" y="19.615384615384617" as="sourcePoint" />
+            <mxPoint x="34.56521739130435" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
