@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T15:32:34.377Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="7v2oXmYbHV9QYQBJWVld" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T15:35:46.457Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="hfldNV84VPp8rbT2aVR7" version="17.1.3" type="github">
   <diagram id="FhSOV1JWTVdPpFtGn__O" name="Page-1">
     <mxGraphModel dx="1132" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -462,6 +462,9 @@
         </mxCell>
         <mxCell id="j-TenT7RtXFkZGrDrBSA-173" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="631" y="1810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j-TenT7RtXFkZGrDrBSA-174" value="&lt;h1&gt;Why does this happen?&lt;/h1&gt;&lt;div&gt;This happens because, since the neutral wall attracts electrons, the electrons garnered by the balloon cause a force between the wall and the balloon to form, causing them to stay together until the electrons kind of just fall off.&lt;/div&gt;&lt;h1&gt;What about the electrons in the wall?&lt;/h1&gt;&lt;div&gt;Well in a wall there is an even amount of protons and electrons, so the electrons in the wall repel the electrons in the balloon, but the protons in the wall attract the electrons in the balloon, so there is more pulling the wall and balloon than pushing them apart.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="3" y="1880" width="437" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
