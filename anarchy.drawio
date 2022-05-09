@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T15:56:39.932Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="i4-GzA9FE1EdvH0GLbVs" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T15:56:45.428Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="hLeqhhe2MU4ulohhGr3H" version="18.0.2" type="github">
   <diagram id="Wr9ieiFXXgjbIbM-0Co7" name="Page-1">
     <mxGraphModel dx="881" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="20" width="580" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JPoifFXFvs0oPWxvo5Is-2" value="&lt;b&gt;created by Chris M. 7th D period&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="40" width="210" height="50" as="geometry" />
+          <mxGeometry x="410" y="30" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DWfOjffaAkUqYP_U8kg8-1" value="&lt;h1&gt;What is anarchy?&lt;/h1&gt;&lt;div&gt;Anarchy is a type of place (e.g. country) with no rules. The general belief of anarchy is that humans can organize and associate with each other without needing any government.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="640" height="120" as="geometry" />
