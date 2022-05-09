@@ -1,23 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T15:56:45.428Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="hLeqhhe2MU4ulohhGr3H" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T16:04:14.130Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="0sd4GiqjN9eEl0K7ybdh" version="18.0.2" type="github">
   <diagram id="Wr9ieiFXXgjbIbM-0Co7" name="Page-1">
-    <mxGraphModel dx="881" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JPoifFXFvs0oPWxvo5Is-1" value="&lt;h1&gt;What is anarchy, and what does it mean for us?&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="580" height="120" as="geometry" />
+        <mxCell id="DWfOjffaAkUqYP_U8kg8-15" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=18;size=20;" vertex="1" parent="1">
+          <mxGeometry width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JPoifFXFvs0oPWxvo5Is-2" value="&lt;b&gt;created by Chris M. 7th D period&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="410" y="30" width="210" height="50" as="geometry" />
+        <mxCell id="DWfOjffaAkUqYP_U8kg8-18" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=18;fontColor=none;strokeColor=default;fillColor=default;position2=0;size=30;position=0.43;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DWfOjffaAkUqYP_U8kg8-1" value="&lt;h1&gt;What is anarchy?&lt;/h1&gt;&lt;div&gt;Anarchy is a type of place (e.g. country) with no rules. The general belief of anarchy is that humans can organize and associate with each other without needing any government.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="640" height="120" as="geometry" />
+        <mxCell id="DWfOjffaAkUqYP_U8kg8-1" value="&lt;h1&gt;What is anarchy?&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="183" y="86" width="640" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DWfOjffaAkUqYP_U8kg8-6" value="" style="group;rotation=30;direction=south;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="160" width="230" height="180" as="geometry" />
+          <mxGeometry y="130" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="DWfOjffaAkUqYP_U8kg8-7" value="" style="group;rotation=18;" vertex="1" connectable="0" parent="DWfOjffaAkUqYP_U8kg8-6">
           <mxGeometry x="-20" y="10" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DWfOjffaAkUqYP_U8kg8-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=18;fontColor=none;strokeColor=default;fillColor=default;noLabel=1;" vertex="1" parent="DWfOjffaAkUqYP_U8kg8-7">
+          <mxGeometry x="106" y="-30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DWfOjffaAkUqYP_U8kg8-8" value="&lt;p style=&quot;line-height: 1;&quot;&gt;A common symbol of anarchy is the letter &quot;A&quot; in a circle.&lt;/p&gt;" style="shape=tape;html=1;size=0.4;spacing=4;textDirection=ltr;whiteSpace=wrap;horizontal=1;" vertex="1" parent="DWfOjffaAkUqYP_U8kg8-7">
           <mxGeometry x="90" width="212" height="100" as="geometry" />
@@ -45,6 +48,24 @@
         </mxCell>
         <mxCell id="DWfOjffaAkUqYP_U8kg8-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;i&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fillColor=#448EB3;strokeColor=#1800F0;fontColor=#001494;fontStyle=1;fontSize=18;" vertex="1" parent="DWfOjffaAkUqYP_U8kg8-7">
           <mxGeometry x="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWfOjffaAkUqYP_U8kg8-14" value="" style="shape=cube;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontFamily=Helvetica;fontSize=18;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" width="650" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JPoifFXFvs0oPWxvo5Is-1" value="&lt;h1&gt;What is anarchy, and what does it mean for us?&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="195" y="30" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JPoifFXFvs0oPWxvo5Is-2" value="&lt;b&gt;created by Chris M. 7th D period&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="15" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DWfOjffaAkUqYP_U8kg8-16" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JPoifFXFvs0oPWxvo5Is-2" target="JPoifFXFvs0oPWxvo5Is-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="70" as="sourcePoint" />
+            <mxPoint x="70" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWfOjffaAkUqYP_U8kg8-20" value="&lt;span style=&quot;color: rgb(240, 240, 240); text-align: left; line-height: 0.5;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Anarchy is a type of place (e.g. country) with no rules. The general belief of anarchy is that humans can organize and associate with each other without needing any government.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="430" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
