@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T15:58:04.778Z" agent="5.0 (X11; CrOS x86_64 14909.132.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xoj7eRdJgkZNv_eAzcuI" version="20.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T15:58:46.845Z" agent="5.0 (X11; CrOS x86_64 14909.132.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="91B6dWparsXBUvDqNfmQ" version="20.8.9" type="github">
   <diagram name="Page-1" id="tGf0pls6zJaBDZakemk3">
     <mxGraphModel dx="465" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9300QycROqR3V97BMiuH-7" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
-          <mxGeometry x="490" y="90" width="580" height="250" as="geometry" />
+          <mxGeometry x="437" y="40" width="580" height="250" as="geometry" />
         </mxCell>
         <mxCell id="9300QycROqR3V97BMiuH-1" value="&lt;h1&gt;Howdy do! I&#39;m Happy Lincoln!&lt;/h1&gt;&lt;p&gt;I&#39;m a cowboy who loves to do that whole hypotenuse-leg thing! I wanna make sure you&#39;re right for me however, because I only work with those who are congruence with my sides, and if you don&#39;t work with me from all angle, then you&#39;re not my match!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="135" width="350" height="160" as="geometry" />
+          <mxGeometry x="552" y="87" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9300QycROqR3V97BMiuH-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle" vertex="1" parent="1">
           <mxGeometry x="460" y="220" width="100" height="157" as="geometry" />
