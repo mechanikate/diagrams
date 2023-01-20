@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T16:45:32.152Z" agent="5.0 (X11; CrOS x86_64 14909.132.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CTkOcLT4284mIV5NlRyp" version="20.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T16:46:32.268Z" agent="5.0 (X11; CrOS x86_64 14909.132.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="n3qT7MmknNFXSxppU9OE" version="20.8.9" type="github">
   <diagram name="Page-1" id="tGf0pls6zJaBDZakemk3">
     <mxGraphModel dx="465" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -70,9 +70,6 @@
             <mxPoint x="508" y="373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9300QycROqR3V97BMiuH-26" value="&lt;h1&gt;Yoooo. I&#39;m Spectacular Skillful Shirley!!!!&lt;/h1&gt;&lt;div&gt;I&#39;m looking&#39; for an a-cute man I can pair up with who&#39;s got the congruent sides and is congruent with me, from all angles! If you believe you fit those single-line congruent sign on those sides, then I think you&#39;re perfect! If not, you&#39;re outta luck bud!&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-201" width="430" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="9300QycROqR3V97BMiuH-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="419" y="-17" as="sourcePoint" />
@@ -120,6 +117,12 @@
             <mxPoint x="464" y="328" as="sourcePoint" />
             <mxPoint x="456" y="328" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9300QycROqR3V97BMiuH-50" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="403" y="-340" width="609.58" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="9300QycROqR3V97BMiuH-26" value="&lt;h1&gt;Yoooo. I&#39;m Spectacular Skillful Shirley!!!!&lt;/h1&gt;&lt;div&gt;I&#39;m looking&#39; for an a-cute man I can pair up with who&#39;s got the congruent sides and is congruent with me, from all angles! If you believe you fit those single-line congruent sign on those sides, then I think you&#39;re perfect! If not, you&#39;re outta luck bud!&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="492.78999999999996" y="-285" width="430" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
