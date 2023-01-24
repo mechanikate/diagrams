@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T17:15:41.334Z" agent="5.0 (X11; CrOS x86_64 14909.132.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1FalhDUBGcSkgJcWkIum" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T17:21:37.142Z" agent="5.0 (X11; CrOS x86_64 14909.132.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="HcjlNhBnQin2rtJmEnrp" version="20.8.11" type="github">
   <diagram name="Page-1" id="tGf0pls6zJaBDZakemk3">
-    <mxGraphModel dx="339" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,6 +210,15 @@
         </mxCell>
         <mxCell id="rSYeYI4Rg0gTw5TaQ2aZ-31" value="" style="ellipse;whiteSpace=wrap;html=1;sketch=0;strokeColor=default;fontSize=24;fillColor=none;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="444" y="-580" width="10" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="rSYeYI4Rg0gTw5TaQ2aZ-32" value="&lt;h1 style=&quot;font-size: 38px;&quot;&gt;AAS&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291" y="-1220" width="99" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSYeYI4Rg0gTw5TaQ2aZ-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.25;sketch=0;strokeColor=default;fontSize=24;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1032" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSYeYI4Rg0gTw5TaQ2aZ-35" value="&lt;h1&gt;Yo. I&#39;m Amazing And Short!&lt;/h1&gt;&lt;div&gt;Don&#39;t judge be solely on my height, or else you&#39;re be regretting it. And make sure you got those 2 angles and that excluded angle, because I love to see it, and if you don&#39;t have those two angles that are just right for me, you&#39;re toast. Cut into triangles. Anyways, see you!&lt;/div&gt;&lt;div&gt;-AAS&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-1082" width="430" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
