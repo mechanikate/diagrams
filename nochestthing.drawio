@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T23:32:46.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.9" etag="EEiVt0DkA4hedUeEF7DZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T23:44:02.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="ohDK0IG3Tcyj-W3BqQuX" version="21.6.9" type="github">
   <diagram name="Page-1" id="3v3_eF956rP9R1qmj_aP">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5JplayVHaoEpiO4tG7-x-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-1" target="5JplayVHaoEpiO4tG7-x-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-1" target="5JplayVHaoEpiO4tG7-x-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-1" value="Tree" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-5" target="5JplayVHaoEpiO4tG7-x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-5" value="Grass Block (at spawn)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-6" target="5JplayVHaoEpiO4tG7-x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-6" value="&lt;div&gt;Dirt&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-10" target="5JplayVHaoEpiO4tG7-x-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-10" value="Leaves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-14" target="5JplayVHaoEpiO4tG7-x-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-14" target="5JplayVHaoEpiO4tG7-x-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-14" value="&lt;div&gt;Oak Sapling&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-16" target="5JplayVHaoEpiO4tG7-x-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-16" value="Oak Log" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-18" target="5JplayVHaoEpiO4tG7-x-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-18" value="Oak Planks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5JplayVHaoEpiO4tG7-x-22" target="5JplayVHaoEpiO4tG7-x-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-22" value="Oak Slab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-25" value="Composter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5JplayVHaoEpiO4tG7-x-41" value="Compost to Bonemeal" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
